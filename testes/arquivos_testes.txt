@@ -1,1 +1,0 @@
-Use esta pasta para armazenar arquivos de evidencias de testes caso necessário.
