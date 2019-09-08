@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Gem.API</name>
+    </assembly>
+    <members>
+        <member name="M:Gem.API.Controllers.EntidadeController.ListAsync(Gem.API.Resources.EntidadeQueryResource)">
+            <summary>
+            Lista todas as entidades.
+            </summary>
+            <returns>Lista de entidades.</returns>
+        </member>
+        <member name="M:Gem.API.Controllers.EntidadeController.PostAsync(Gem.API.Resources.SaveEntidadeResource)">
+            <summary>
+            Salva uma nova entidade.
+            </summary>
+            <param name="resource">Entidade data.</param>
+            <returns>Response for the request.</returns>
+        </member>
+        <member name="M:Gem.API.Controllers.EntidadeController.PutAsync(System.Int32,Gem.API.Resources.SaveEntidadeResource)">
+            <summary>
+            Atualiza uma entidade de acordo com o id.
+            </summary>
+            <param name="id">ID da Entidade.</param>
+            <param name="resource">Dados da Entidade.</param>
+            <returns>Resposta de solicitacao.</returns>
+        </member>
+        <member name="M:Gem.API.Controllers.EntidadeController.DeleteAsync(System.Int32)">
+            <summary>
+            Deleta uma Entidade de acordo com a id.
+            </summary>
+            <param nome="id">Entidade identifier.</param>
+            <returns>Response for the request.</returns>
+        </member>
+        <member name="M:Gem.API.Controllers.TiposController.ListAsync">
+            <summary>
+            Lista todos os tipos.
+            </summary>
+            <returns>Lista os tipos.</returns>
+        </member>
+        <member name="M:Gem.API.Controllers.TiposController.PostAsync(Gem.API.Resources.SaveTipoResource)">
+            <summary>
+            Salva um novo tipo.
+            </summary>
+            <param name="resource">Tipo de entidade.</param>
+            <returns>Resposta para solicitação.</returns>
+        </member>
+        <member name="M:Gem.API.Controllers.TiposController.PutAsync(System.Int32,Gem.API.Resources.SaveTipoResource)">
+            <summary>
+            Atualiza um tipo existente de acordo com a id.
+            </summary>
+            <param name="id">Tipo da entidade.</param>
+            <param name="resource">Atualiza o tipo da entidade.</param>
+            <returns>Response for the request.</returns>
+        </member>
+        <member name="M:Gem.API.Controllers.TiposController.DeleteAsync(System.Int32)">
+            <summary>
+            Deleta um tipo de acordo com a id.
+            </summary>
+            <param name="id">Tipo da entidade.</param>
+            <returns>Response for the request.</returns>
+        </member>
+        <member name="M:Gem.API.Domain.Services.Communication.TipoResponse.#ctor(Gem.API.Domain.Models.Tipo)">
+            <summary>
+            Creates a success response.
+            </summary>
+            <param name="tipo">Saved tipo.</param>
+            <returns>Response.</returns>
+        </member>
+        <member name="M:Gem.API.Domain.Services.Communication.TipoResponse.#ctor(System.String)">
+            <summary>
+            Creates am error response.
+            </summary>
+            <param name="message">Error message.</param>
+            <returns>Response.</returns>
+        </member>
+    </members>
+</doc>
