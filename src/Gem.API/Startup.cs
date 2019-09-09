@@ -37,11 +37,11 @@ namespace Gem.API
                 {
                     Title = "Gem API",
                         Version = "v1",
-                        Description = "Gem - Gerenciador de Membros.",
+                        Description = "Gem - Gerenciador de Membros da Igreja.",
                         Contact = new Contact
                         {
                             Name = "Grupo Projeto Gem",
-                                Url = "https://github.com/",
+                                Url = "https://github.com/wlferreirapucminas/ProjetoGem",
                         },
                         License = new License
                         {
