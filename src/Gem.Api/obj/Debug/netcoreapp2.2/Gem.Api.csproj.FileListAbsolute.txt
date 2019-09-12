@@ -1,0 +1,14 @@
+C:\Users\f005094\Gem.Api\bin\Debug\netcoreapp2.2\Gem.Api.deps.json
+C:\Users\f005094\Gem.Api\bin\Debug\netcoreapp2.2\Gem.Api.runtimeconfig.json
+C:\Users\f005094\Gem.Api\bin\Debug\netcoreapp2.2\Gem.Api.runtimeconfig.dev.json
+c:\Users\f005094\Gem.Api\bin\Debug\netcoreapp2.2\Gem.Api.dll
+c:\Users\f005094\Gem.Api\bin\Debug\netcoreapp2.2\Gem.Api.pdb
+c:\Users\f005094\Gem.Api\obj\Debug\netcoreapp2.2\Gem.Api.csprojAssemblyReference.cache
+c:\Users\f005094\Gem.Api\obj\Debug\netcoreapp2.2\Gem.Api.csproj.CoreCompileInputs.cache
+c:\Users\f005094\Gem.Api\obj\Debug\netcoreapp2.2\Gem.Api.RazorAssemblyInfo.cache
+c:\Users\f005094\Gem.Api\obj\Debug\netcoreapp2.2\Gem.Api.RazorAssemblyInfo.cs
+c:\Users\f005094\Gem.Api\obj\Debug\netcoreapp2.2\Gem.Api.AssemblyInfoInputs.cache
+c:\Users\f005094\Gem.Api\obj\Debug\netcoreapp2.2\Gem.Api.AssemblyInfo.cs
+c:\Users\f005094\Gem.Api\obj\Debug\netcoreapp2.2\Gem.Api.RazorTargetAssemblyInfo.cache
+c:\Users\f005094\Gem.Api\obj\Debug\netcoreapp2.2\Gem.Api.dll
+c:\Users\f005094\Gem.Api\obj\Debug\netcoreapp2.2\Gem.Api.pdb
